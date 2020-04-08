@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Archer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - StatsPanel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3387778439
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Units
+    uniqueID: 687336029
+    locked: 0
+  - name: Foreground
+    uniqueID: 1425688577
+    locked: 0
+  - name: Cursor
+    uniqueID: 1779271511
+    locked: 0
+  - name: DamageIcons
+    uniqueID: 1992854459
+    locked: 0
